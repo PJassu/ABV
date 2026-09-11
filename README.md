@@ -1,12 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ABV
 
-# Run and deploy your AI Studio app
+> Developed by **Jassu**
 
-This contains everything you need to run your app locally.
+A web application powered by the Gemini API.
 
-View your app in AI Studio: https://ai.studio/apps/a35c0657-57de-4c10-b1d5-7fbe17e235e5
+## Features
+
+- ⚡ Fast and modern web interface
+- 🤖 Powered by Google's Gemini API
+- 🛠️ Easy local setup and development
 
 ## Run Locally
 
